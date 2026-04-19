@@ -1,8 +1,8 @@
 Luontopeli app
 
-Perus koodit kopioitu Villen sivuilta.
+# Perus koodit kopioitu Villen sivuilta.
 
-Toimii:
+# Toimii:
 
 -Paikannus
 
@@ -15,11 +15,11 @@ Toimii:
 -Kuvan tunnistus
 
 
-Ei toimi (ainkaan minulla):
+# Ei toimi (ainkaan minulla):
 
 -Reitin piirtäminen
 
-Lisäominaisuudet:
+# Lisäominaisuudet:
 
 -Extra luontosanoja
 
