@@ -1,5 +1,7 @@
 # Luontopeli app
 
+-Lataa uusin release v1.0.3
+
 # Perus koodit kopioitu Villen sivuilta.
 
 # Toimii:
