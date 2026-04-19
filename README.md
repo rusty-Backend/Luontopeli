@@ -18,7 +18,7 @@ Lisäominaisuudet:
 
 
 Projektirakenne
----
+```
 app/src/main/java/com/example/luontopeli/
 ├── data/
 │   ├── local/
@@ -41,4 +41,4 @@ app/src/main/java/com/example/luontopeli/
 │                               DiscoverViewModel, StatsViewModel
 ├── LuontopeliApplication.kt
 └── MainActivity.kt
----
+```
