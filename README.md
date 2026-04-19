@@ -1,4 +1,4 @@
-Luontopeli app
+# Luontopeli app
 
 # Perus koodit kopioitu Villen sivuilta.
 
@@ -27,7 +27,7 @@ Luontopeli app
 
 
 
-Projektirakenne
+# Projektirakenne
 ```
 app/src/main/java/com/example/luontopeli/
 ├── data/
