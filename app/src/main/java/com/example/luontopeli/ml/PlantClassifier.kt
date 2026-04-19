@@ -33,7 +33,15 @@ class PlantClassifier {
         "plant", "flower", "tree", "shrub", "leaf", "fern", "moss",
         "mushroom", "fungus", "grass", "herb", "bush", "berry",
         "pine", "birch", "spruce", "algae", "lichen", "bark",
-        "nature", "forest", "woodland", "botanical", "flora"
+        "nature", "forest", "woodland", "botanical", "flora",
+        // Eläimet
+        "bird", "animal", "mammal", "insect", "butterfly", "bee",
+        "wildlife", "creature", "fauna", "reptile", "amphibian",
+        "tiger", "bear", "deer", "fox", "wolf", "eagle", "owl",
+        "fish", "frog", "snake", "lizard", "squirrel", "rabbit",
+        // Luonto yleisesti
+        "sky", "water", "rock", "stone", "soil", "sand", "cloud",
+        "mountain", "lake", "river", "pond", "field", "meadow"
     )
 
     /**
